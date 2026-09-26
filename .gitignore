@@ -1,0 +1,7 @@
+﻿.env
+__pycache__/
+*.safetensors
+*.bin
+*.gguf
+/venv
+/dataset/*.csv
