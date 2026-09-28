@@ -5,3 +5,4 @@ __pycache__/
 *.gguf
 /venv
 /dataset/*.csv
+.venv/
