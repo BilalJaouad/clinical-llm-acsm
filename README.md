@@ -10,7 +10,7 @@
 [![vLLM](https://img.shields.io/badge/Serving-vLLM-4B8BBE)](https://github.com/vllm-project/vllm)
 [![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Status](https://img.shields.io/badge/Status-Research%20Prototype-orange)](#limitations)
-[![License](https://img.shields.io/badge/License-MIT-green)](#license)
+
 
 [**Full Report**](docs/project_report.pdf) ·
 [**Report an Issue**](https://github.com/BilalJaouad/clinical-llm-acsm/issues) ·
